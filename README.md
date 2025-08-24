@@ -21,4 +21,4 @@ The ALU performs basic arithmetic and logical operations depending on the 2-bit 
 
 ---
 
-## 📂 Repository Structure
+
